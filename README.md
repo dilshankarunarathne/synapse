@@ -14,7 +14,7 @@ devices at the edge of the network.
 Traditional edge computing approaches rely on individual device capabilities. Synapse takes a different approach: 
 it enables devices to work together, leveraging their combined processing power to handle complex tasks efficiently.
 
-This project aims to develop:
+### This project aims to develop
 
 User-friendly DSL: Synapse provides a concise and intuitive way to define tasks suitable for distributed execution on 
 edge devices.
