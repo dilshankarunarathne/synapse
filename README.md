@@ -24,6 +24,7 @@ collaboration among participating devices.
 availability fluctuations and potential failures.
 
 ### Benefits
+
 Improved Processing Power: By leveraging collaboration, Synapse overcomes limitations of individual devices, enabling execution of complex tasks at the edge.
 Reduced Latency: Processing data closer to the source minimizes network hops, leading to lower latency for real-time edge applications.
 Scalability: The paradigm scales effortlessly as new devices join the network, automatically distributing workload without expensive upgrades.
