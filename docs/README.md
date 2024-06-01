@@ -1,0 +1,1 @@
+Synapse: Refers to the connections between neurons in the brain, aligning with the concept of interconnected edge devices.
