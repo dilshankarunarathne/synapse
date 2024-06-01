@@ -8,7 +8,8 @@ A Domain-Specific Language for Distributed Edge Computing
 
 Synapse is a Domain-Specific Language (DSL) designed to simplify collaborative task execution on resource-constrained devices at the edge of the network.
 
-Project Overview
+## Project Overview
+
 Traditional edge computing approaches rely on individual device capabilities. Synapse takes a different approach: it enables devices to work together, leveraging their combined processing power to handle complex tasks efficiently.
 
 This project aims to develop:
