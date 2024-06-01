@@ -14,4 +14,4 @@ Eastern University of Sri Lanka
 
 ## Tentative Title
 
-
+A Distributed Programming Paradigm for Resource-Constrained Devices with the Introduction of a Domain-Specific Language
