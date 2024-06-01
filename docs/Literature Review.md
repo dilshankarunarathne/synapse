@@ -58,8 +58,7 @@ challenges will be conducted.
 ## Tools & Techniques
 
 The project will leverage existing open-source libraries and frameworks:
-o
-Programming languages like Python for developing the DSL and communication protocol.
+* Programming languages like Python for developing the DSL and communication protocol.
 o
 Containerization technologies like Docker to isolate execution environments on each device.
 o
