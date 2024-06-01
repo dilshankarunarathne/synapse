@@ -59,8 +59,7 @@ challenges will be conducted.
 
 The project will leverage existing open-source libraries and frameworks:
 * Programming languages like Python for developing the DSL and communication protocol.
-o
-Containerization technologies like Docker to isolate execution environments on each device.
+* Containerization technologies like Docker to isolate execution environments on each device.
 o
 Existing libraries/frameworks like TensorFlow Lite for efficient task execution on edge devices.
 o
