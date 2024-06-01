@@ -21,7 +21,7 @@ edge devices.
 - Secure Communication Protocol: This protocol ensures secure device discovery, task distribution, data exchange, and 
 collaboration among participating devices.
 - Scalable and Fault-Tolerant System: The paradigm can adapt to dynamic edge environments by handling device 
-- availability fluctuations and potential failures.
+availability fluctuations and potential failures.
 Benefits:
 Improved Processing Power: By leveraging collaboration, Synapse overcomes limitations of individual devices, enabling execution of complex tasks at the edge.
 Reduced Latency: Processing data closer to the source minimizes network hops, leading to lower latency for real-time edge applications.
