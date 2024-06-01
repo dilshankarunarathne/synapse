@@ -53,4 +53,4 @@ challenges will be conducted.
   (sudoer selection), task distribution, progress monitoring, and secure data exchange.
   * Scalability and Fault Tolerance Mechanisms: Explore techniques to handle dynamic device availability, 
   network issues, and potential device failures. This might involve mechanisms for task migration, error handling, 
-  * and self-healing.
+  and self-healing.
