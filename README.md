@@ -25,7 +25,7 @@ Simplified Development: The Synapse DSL simplifies task definition for developer
 Getting Started:
 This repository is currently under development.
 
-Future Steps:
+# Future Steps
 
 Development of the Synapse DSL syntax and compiler.
 Design and implementation of the secure communication protocol.
