@@ -32,7 +32,7 @@ edge applications.
 - Scalability: The paradigm scales effortlessly as new devices join the network, automatically distributing workload 
 without expensive upgrades.
 - Simplified Development: The Synapse DSL simplifies task definition for developers, reducing the barrier to entry for 
-- edge computing projects.
+edge computing projects.
 Getting Started:
 This repository is currently under development.
 
