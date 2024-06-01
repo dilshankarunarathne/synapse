@@ -36,3 +36,5 @@ is reduced, leading to improved performance and enabling the execution of more c
 ## Problem statement
 
 Current approaches in edge computing primarily rely on the individual processing capabilities of each device. This poses limitations for applications requiring high computational power or real-time response. While some existing distributed computing paradigms exist, they may not be well-suited for the resource-constrained and dynamic nature of edge environments. This project addresses the need for a lightweight, secure, and scalable paradigm that empowers resource-constrained devices for collaborative processing at the edge.
+
+
