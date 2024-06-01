@@ -22,4 +22,5 @@ This project proposes a novel distributed programming paradigm specifically desi
 operating at the edge of the network. The paradigm leverages the combined processing power of nearby devices to tackle 
 computationally intensive tasks, overcoming limitations of individual devices. A Domain-Specific Language (DSL) 
 facilitates user-friendly task specification for collaborative execution, while secure communication protocols ensure 
-reliable and efficient data exchange among participating devices. This research aims to develop a scalable and fault-tolerant solution for distributed task execution, enabling efficient processing at the edge with reduced latency.
+reliable and efficient data exchange among participating devices. This research aims to develop a scalable and 
+fault-tolerant solution for distributed task execution, enabling efficient processing at the edge with reduced latency.
