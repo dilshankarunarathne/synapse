@@ -42,3 +42,5 @@ edge environments. This project addresses the need for a lightweight, secure, an
 resource-constrained devices for collaborative processing at the edge.
 
 ## Methodology
+
+
