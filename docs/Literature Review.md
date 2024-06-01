@@ -30,6 +30,7 @@ fault-tolerant solution for distributed task execution, enabling efficient proce
 The growing prevalence of edge computing brings data processing closer to data sources, enabling real-time applications 
 with lower latency. However, individual edge devices often have limited processing power, memory, and storage.  
 This project proposes a solution – a distributed programming paradigm that harnesses the collective power of multiple 
-devices for collaborative task execution. By distributing tasks among nearby devices, the burden on any single device is reduced, leading to improved performance and enabling the execution of more complex tasks at the edge.
+devices for collaborative task execution. By distributing tasks among nearby devices, the burden on any single device 
+is reduced, leading to improved performance and enabling the execution of more complex tasks at the edge.
 
 
