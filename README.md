@@ -6,7 +6,8 @@ A Domain-Specific Language for Distributed Edge Computing
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
 [![Build Status](https://travis-ci.com/dilshan/synapse.svg?branch=main)](https://travis-ci.com/dilshan/synapse)
 
-Synapse is a Domain-Specific Language (DSL) designed to simplify collaborative task execution on resource-constrained devices at the edge of the network.
+Synapse is a Domain-Specific Language (DSL) designed to simplify collaborative task execution on resource-constrained 
+devices at the edge of the network.
 
 ## Project Overview
 
