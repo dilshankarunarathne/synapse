@@ -1,4 +1,5 @@
 # A Distributed Programming Paradigm for Resource-Constrained Devices with the Introduction of a Domain-Specific Language
 
 Research Work Proposal  
-W. M. Dilshan Karunarathne
+W. M. Dilshan Karunarathne  
+
