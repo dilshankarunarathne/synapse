@@ -44,7 +44,6 @@ resource-constrained devices for collaborative processing at the edge.
 ## Methodology
 
 This project will follow a research and development approach.
-•
 Research Phase: A thorough review of existing literature on distributed computing paradigms and edge computing challenges will be conducted.
 •
 Development Phase:
