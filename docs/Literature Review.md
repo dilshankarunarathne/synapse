@@ -49,7 +49,7 @@ challenges will be conducted.
 * Development Phase:
   * Domain-Specific Language (DSL): Design a user-friendly DSL to specify tasks suitable for parallel execution on 
   edge devices.
-o
+  *
 Secure Communication Protocol: Develop a secure communication protocol for device discovery, leader election (sudoer selection), task distribution, progress monitoring, and secure data exchange.
 o
 Scalability and Fault Tolerance Mechanisms: Explore techniques to handle dynamic device availability, network issues, and potential device failures. This might involve mechanisms for task migration, error handling, and self-healing.
