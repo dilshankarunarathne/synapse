@@ -24,3 +24,5 @@ computationally intensive tasks, overcoming limitations of individual devices. A
 facilitates user-friendly task specification for collaborative execution, while secure communication protocols ensure 
 reliable and efficient data exchange among participating devices. This research aims to develop a scalable and 
 fault-tolerant solution for distributed task execution, enabling efficient processing at the edge with reduced latency.
+
+
