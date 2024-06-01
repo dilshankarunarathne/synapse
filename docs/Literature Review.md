@@ -46,7 +46,6 @@ resource-constrained devices for collaborative processing at the edge.
 This project will follow a research and development approach.
 * Research Phase: A thorough review of existing literature on distributed computing paradigms and edge computing challenges will be conducted.
 * Development Phase:
-o
 Domain-Specific Language (DSL): Design a user-friendly DSL to specify tasks suitable for parallel execution on edge devices.
 o
 Secure Communication Protocol: Develop a secure communication protocol for device discovery, leader election (sudoer selection), task distribution, progress monitoring, and secure data exchange.
