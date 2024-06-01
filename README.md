@@ -16,7 +16,8 @@ it enables devices to work together, leveraging their combined processing power 
 
 This project aims to develop:
 
-User-friendly DSL: Synapse provides a concise and intuitive way to define tasks suitable for distributed execution on edge devices.
+User-friendly DSL: Synapse provides a concise and intuitive way to define tasks suitable for distributed execution on 
+edge devices.
 Secure Communication Protocol: This protocol ensures secure device discovery, task distribution, data exchange, and collaboration among participating devices.
 Scalable and Fault-Tolerant System: The paradigm can adapt to dynamic edge environments by handling device availability fluctuations and potential failures.
 Benefits:
