@@ -34,9 +34,6 @@ Development of tools and libraries for efficient task execution on edge devices.
 Contribution:
 This project welcomes contributions from the developer community! Feel free to fork the repository, propose issues, or submit pull requests.
 
-License:
-[Insert your preferred open-source license here (e.g., MIT License, Apache License 2.0)]
-
 Additional Information:
 
 Project Website (if applicable): [Link to your website (optional)]
