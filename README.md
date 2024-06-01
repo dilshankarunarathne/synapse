@@ -34,10 +34,6 @@ Development of tools and libraries for efficient task execution on edge devices.
 Contribution:
 This project welcomes contributions from the developer community! Feel free to fork the repository, propose issues, or submit pull requests.
 
-## Future 
-
-In the future, we plan to improve this application to a point where users won't need to use a wizard mode or a UI. Instead, they can simply talk to the AI. The AI will interpret and understand the user's requirements and build the software accordingly. This will further simplify the process of creating software, making it even more accessible to users without a background in coding.
-
 ## License
 
 This work is licensed under a
