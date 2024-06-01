@@ -44,7 +44,8 @@ resource-constrained devices for collaborative processing at the edge.
 ## Methodology
 
 This project will follow a research and development approach.
-* Research Phase: A thorough review of existing literature on distributed computing paradigms and edge computing challenges will be conducted.
+* Research Phase: A thorough review of existing literature on distributed computing paradigms and edge computing 
+challenges will be conducted.
 * Development Phase:
   * Domain-Specific Language (DSL): Design a user-friendly DSL to specify tasks suitable for parallel execution on edge devices.
 o
