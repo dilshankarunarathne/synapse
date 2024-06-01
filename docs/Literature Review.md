@@ -41,4 +41,4 @@ distributed computing paradigms exist, they may not be well-suited for the resou
 edge environments. This project addresses the need for a lightweight, secure, and scalable paradigm that empowers 
 resource-constrained devices for collaborative processing at the edge.
 
-
+## Methodology
