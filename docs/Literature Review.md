@@ -57,4 +57,12 @@ challenges will be conducted.
 
 ## Tools & Techniques
 
-
+The project will leverage existing open-source libraries and frameworks:
+o
+Programming languages like Python for developing the DSL and communication protocol.
+o
+Containerization technologies like Docker to isolate execution environments on each device.
+o
+Existing libraries/frameworks like TensorFlow Lite for efficient task execution on edge devices.
+o
+Additionally, simulation tools will be utilized to evaluate the performance and scalability of the proposed paradigm.
