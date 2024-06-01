@@ -11,7 +11,8 @@ devices at the edge of the network.
 
 ## Project Overview
 
-Traditional edge computing approaches rely on individual device capabilities. Synapse takes a different approach: it enables devices to work together, leveraging their combined processing power to handle complex tasks efficiently.
+Traditional edge computing approaches rely on individual device capabilities. Synapse takes a different approach: 
+it enables devices to work together, leveraging their combined processing power to handle complex tasks efficiently.
 
 This project aims to develop:
 
