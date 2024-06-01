@@ -8,3 +8,4 @@ Supervised By: Ms. K. Kethika
 Co-Supervised By: Ms. S. Disne  
 
 Department of Computer Science Faculty of Applied
+Science Trincomalee Campus, EUSL
