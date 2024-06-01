@@ -1,17 +1,11 @@
-# The GOD
-
-This is the first proposed final year research-based project for my Bachelor of Computer Science degree program at the Eastern University of Sri Lanka. 
+# 
 
 [![Version](https://img.shields.io/badge/version-0.1-brightgreen.svg)](https://pypi.org/project/ad-topic-recommender/)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Abstract
 
-The GOD is a web-based application that provides a platform for users to create software applications without having to code. 
 
-The application operates in a 'wizard' mode where users can navigate through and enter their preferences for various types of software projects. This includes, but is not limited to, websites, web applications, APIs, machine learning projects, and mobile applications. The goal is to make the process of creating software as user-friendly and accessible as possible, even for those without a background in coding.
-
-The GOD uses a combination of machine learning algorithms and natural language processing to understand user preferences and generate code based on those preferences. The application also provides a user-friendly interface for users to interact with their projects, including the ability to customize and modify the generated code.
 
 ## Future Improvements
 
