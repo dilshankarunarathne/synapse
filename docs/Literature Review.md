@@ -4,4 +4,5 @@ Research Work Proposal
 W. M. Dilshan Karunarathne  
 EUSL/TC/IS/2019/COM/24  
 19/COM/313  
-Supervised By: Ms. S. Disne  
+Supervised By: 
+Co-Supervised By: Ms. S. Disne  
