@@ -6,6 +6,7 @@
 - The central server assigns a unique and temporary job ID (not the creator's IP) for the task.
 - Devices periodically broadcast their availability and capabilities to the server.
 - The server maintains a list of available devices for each job.
+
 Device Joins Task:
 
 1. Devices discover available tasks (and their job IDs) from the server.
