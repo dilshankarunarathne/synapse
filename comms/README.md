@@ -82,11 +82,11 @@
    - NaCl: https://nacl.cr.yp.to/
 
 2. Distributed Consensus Algorithms:
-- Raft Consensus: https://raft.github.io/
-- Peer-to-Peer Communication Libraries:
-- ZeroMQ: https://zeromq.org/
-- libp2p: https://www.libp2p.io/
+   - Raft Consensus: https://raft.github.io/
+   - Peer-to-Peer Communication Libraries:
+   - ZeroMQ: https://zeromq.org/
+   - libp2p: https://www.libp2p.io/
 
-1. Scalable Discovery Services:
+3. Scalable Discovery Services:
 - Apache ZooKeeper: https://zookeeper.apache.org/
 - Consul: https://www.consul.io/
