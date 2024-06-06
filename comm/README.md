@@ -23,7 +23,7 @@
 
 - Devices execute their assigned snippets and send results back to the leader or directly to the creator (depending on the workflow).
 
-Result Aggregation and Return:
+6. Result Aggregation and Return:
 
 1. The leader (or creator) aggregates the results from all devices.
 The final processed data or outcome is returned to the user application.
