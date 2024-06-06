@@ -71,7 +71,7 @@ discovery, peer-to-peer protocols).
 ### Client Module:
 
 - Job Management: Allows users to submit jobs, retrieve job details, and interact with task outcomes.
-- (Optional) Visualization Tools: Offers functionalities for visualizing results or task execution progress.
+- Visualization Tools: Offers functionalities for visualizing results or task execution progress.
 
 ### Additional Considerations:
 
