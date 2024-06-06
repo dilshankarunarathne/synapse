@@ -90,6 +90,3 @@
 3. Scalable Discovery Services:
 - Apache ZooKeeper: https://zookeeper.apache.org/
 - Consul: https://www.consul.io/
-Remember, this is a complex project, so break it down into manageable milestones. Start with a basic prototype focusing on core functionalities and gradually add complexity as you progress. You can also explore existing open-source distributed task execution frameworks (e.g., Apache Spark) for inspiration and potential code reuse opportunities.
-
-By following these steps and leveraging the provided resources, you can build a robust and secure distributed task execution system using Synapse, enabling collaborative processing at the edge. Feel free to ask if you have any further questions!
