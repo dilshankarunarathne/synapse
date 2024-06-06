@@ -75,7 +75,7 @@
 
 5. Security Considerations:  Thoroughly assess and address security vulnerabilities throughout the system design and implementation.
 
-Resources:
+## Resources:
 
 Secure Communication Libraries:
 libsodium: https://github.com/jedisct1/libsodium
