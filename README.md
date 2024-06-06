@@ -45,7 +45,6 @@ edge computing projects.
     - Optimizer (Optional): Analyzes and optimizes the generated code for efficient execution on resource-constrained devices.
 
 2. Task Management:
-
     Job Manager: Handles job creation, registration (with central server if used), and lifecycle management.
     Task Decomposition: Breaks down the overall task into smaller, executable subtasks suitable for individual devices.
     Result Aggregation: Collects and combines results from participating devices after task execution.
