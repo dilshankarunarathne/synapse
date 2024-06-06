@@ -13,7 +13,7 @@
 - A device interested in joining a task retrieves the job details from the server.
 - The server facilitates secure communication channel establishment between the creator and joining device using a secure communication protocol like yours.
 
-Leader Election (Optional):
+4. Leader Election (Optional):
 
 1. Devices within a task might run a leader election algorithm to choose a leader for coordinating task execution and result aggregation. This can improve efficiency but introduces additional complexity.
 Task Execution:
