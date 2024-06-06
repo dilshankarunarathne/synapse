@@ -29,9 +29,9 @@
 
 7. Fault Tolerance:
 
-- Implement mechanisms to handle device failures or network issues. This might involve:
-  - Re-assigning tasks to available devices.
-  - Resuming execution from the last successful checkpoint.
+   - Implement mechanisms to handle device failures or network issues. This might involve:
+     - Re-assigning tasks to available devices.
+     - Resuming execution from the last successful checkpoint.
 
 ## Benefits of this Approach:
 
