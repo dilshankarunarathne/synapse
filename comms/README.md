@@ -88,7 +88,7 @@
 - libp2p: https://www.libp2p.io/
 
 3. Scalable Discovery Services:
-Apache ZooKeeper: https://zookeeper.apache.org/
+- Apache ZooKeeper: https://zookeeper.apache.org/
 Consul: https://www.consul.io/
 Remember, this is a complex project, so break it down into manageable milestones. Start with a basic prototype focusing on core functionalities and gradually add complexity as you progress. You can also explore existing open-source distributed task execution frameworks (e.g., Apache Spark) for inspiration and potential code reuse opportunities.
 
