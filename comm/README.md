@@ -9,7 +9,7 @@
 
 3. Device Joins Task:
 
-1. Devices discover available tasks (and their job IDs) from the server.
+Devices discover available tasks (and their job IDs) from the server.
 A device interested in joining a task retrieves the job details from the server.
 The server facilitates secure communication channel establishment between the creator and joining device using a secure communication protocol like yours.
 Leader Election (Optional):
