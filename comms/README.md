@@ -80,7 +80,8 @@
 1. Secure Communication Libraries:
 - libsodium: https://github.com/jedisct1/libsodium
 - NaCl: https://nacl.cr.yp.to/
-Distributed Consensus Algorithms:
+
+2. Distributed Consensus Algorithms:
 Raft Consensus: https://raft.github.io/
 Peer-to-Peer Communication Libraries:
 ZeroMQ: https://zeromq.org/
