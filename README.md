@@ -70,7 +70,6 @@ discovery, peer-to-peer protocols).
 
 ### Client Module:
 
-Synapse IDE (Optional): Provides a user-friendly integrated development environment for writing and editing tasks in the Synapse DSL.
 Job Management: Allows users to submit jobs, retrieve job details, and interact with task outcomes.
 (Optional) Visualization Tools: Offers functionalities for visualizing results or task execution progress.
 Additional Considerations:
