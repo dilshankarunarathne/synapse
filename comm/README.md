@@ -25,7 +25,7 @@
 
 6. Result Aggregation and Return:
 
-1. The leader (or creator) aggregates the results from all devices.
+The leader (or creator) aggregates the results from all devices.
 The final processed data or outcome is returned to the user application.
 Fault Tolerance:
 
