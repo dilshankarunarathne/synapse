@@ -69,9 +69,9 @@
 
 4. Communication Protocol Implementation:  Choose a secure communication library (libsodium, NaCl) and implement the protocol for:
 
-- Device authentication and authorization
-- Encrypted data exchange
-- Message integrity checks
+   - Device authentication and authorization
+   - Encrypted data exchange
+   - Message integrity checks
 
 5. Security Considerations:  Thoroughly assess and address security vulnerabilities throughout the system design and implementation.
 
