@@ -49,10 +49,10 @@
 
 1. Refine Job Description:  Define the information contained within the job details retrieved from the server. This might include:
 
-- Task description (high-level overview)
-- Synapse code snippets for each participating device
-- Expected results format
-- Security parameters for communication
+   - Task description (high-level overview)
+   - Synapse code snippets for each participating device
+   - Expected results format
+   - Security parameters for communication
 
 2. Central Server Design (Optional):  If you choose to use a central server, consider its functionalities:
 
