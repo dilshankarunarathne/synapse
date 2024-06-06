@@ -72,7 +72,8 @@ discovery, peer-to-peer protocols).
 
 Job Management: Allows users to submit jobs, retrieve job details, and interact with task outcomes.
 (Optional) Visualization Tools: Offers functionalities for visualizing results or task execution progress.
-Additional Considerations:
+
+### Additional Considerations:
 
 Testing Framework: Implement unit and integration tests for each module to ensure proper functionality and communication between modules.
 Configuration Management: Utilize configuration files or environment variables to manage system parameters (e.g., server addresses, security keys) without modifying core code.
