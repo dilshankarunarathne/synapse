@@ -71,7 +71,7 @@
 
 - Device authentication and authorization
 - Encrypted data exchange
-Message integrity checks
+- Message integrity checks
 Security Considerations:  Thoroughly assess and address security vulnerabilities throughout the system design and implementation.
 
 Resources:
