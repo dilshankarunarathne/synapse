@@ -61,7 +61,7 @@
 - Secure communication channel facilitation
 - (Optional) Leader election coordination
 
-Software Client Development:  Develop the user interface and functionalities for the software client:
+3. Software Client Development:  Develop the user interface and functionalities for the software client:
 
 Writing Synapse code for tasks
 Submitting jobs and retrieving job details
