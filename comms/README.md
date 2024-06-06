@@ -47,7 +47,7 @@
 
 ## Next Steps:
 
-Refine Job Description:  Define the information contained within the job details retrieved from the server. This might include:
+- Refine Job Description:  Define the information contained within the job details retrieved from the server. This might include:
 
 Task description (high-level overview)
 Synapse code snippets for each participating device
