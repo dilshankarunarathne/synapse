@@ -52,7 +52,7 @@ Task Decomposition: Breaks down the overall task into smaller, executable subtas
 Result Aggregation: Collects and combines results from participating devices after task execution.
 (Optional) Leader Election: Implements logic for selecting a leader device to coordinate task execution and result aggregation.
 
-Communication Modules:
+### Communication Modules:
 
 Device Discovery:
 
