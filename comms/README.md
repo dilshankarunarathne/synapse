@@ -78,8 +78,8 @@
 ## Resources:
 
 1. Secure Communication Libraries:
-- libsodium: https://github.com/jedisct1/libsodium
-- NaCl: https://nacl.cr.yp.to/
+   - libsodium: https://github.com/jedisct1/libsodium
+   - NaCl: https://nacl.cr.yp.to/
 
 2. Distributed Consensus Algorithms:
 - Raft Consensus: https://raft.github.io/
@@ -87,6 +87,6 @@
 - ZeroMQ: https://zeromq.org/
 - libp2p: https://www.libp2p.io/
 
-3. Scalable Discovery Services:
+1. Scalable Discovery Services:
 - Apache ZooKeeper: https://zookeeper.apache.org/
 - Consul: https://www.consul.io/
