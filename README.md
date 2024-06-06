@@ -65,7 +65,8 @@ discovery, peer-to-peer protocols).
 
 ### Security Module:
 
-- Authentication and Authorization: Implements mechanisms for verifying device identities and access rights before allowing participation.
+- Authentication and Authorization: Implements mechanisms for verifying device identities and access rights before 
+allowing participation.
 - Secure Key Management: Establishes secure methods for generating, storing, and rotating cryptographic keys used for encryption.
 
 ### Client Module:
