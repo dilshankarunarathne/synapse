@@ -59,7 +59,7 @@
 - Job registration and management
 - Device discovery and availability tracking
 - Secure communication channel facilitation
-(Optional) Leader election coordination
+- (Optional) Leader election coordination
 Software Client Development:  Develop the user interface and functionalities for the software client:
 
 Writing Synapse code for tasks
