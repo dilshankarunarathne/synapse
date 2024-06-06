@@ -19,7 +19,7 @@
 
 5. Task Execution:
 
-1. The creator distributes task snippets (code segments) to participating devices securely.
+ The creator distributes task snippets (code segments) to participating devices securely.
 Devices execute their assigned snippets and send results back to the leader or directly to the creator (depending on the workflow).
 Result Aggregation and Return:
 
