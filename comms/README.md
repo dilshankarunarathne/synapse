@@ -85,7 +85,7 @@
 - Raft Consensus: https://raft.github.io/
 - Peer-to-Peer Communication Libraries:
 - ZeroMQ: https://zeromq.org/
-libp2p: https://www.libp2p.io/
+- libp2p: https://www.libp2p.io/
 Scalable Discovery Services:
 Apache ZooKeeper: https://zookeeper.apache.org/
 Consul: https://www.consul.io/
