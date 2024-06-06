@@ -21,7 +21,7 @@ Task Execution:
 Devices execute their assigned snippets and send results back to the leader or directly to the creator (depending on the workflow).
 Result Aggregation and Return:
 
-- The leader (or creator) aggregates the results from all devices.
+6. The leader (or creator) aggregates the results from all devices.
 The final processed data or outcome is returned to the user application.
 Fault Tolerance:
 
