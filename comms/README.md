@@ -83,10 +83,11 @@
 
 2. Distributed Consensus Algorithms:
    - Raft Consensus: https://raft.github.io/
-   - Peer-to-Peer Communication Libraries:
+   - 
+Peer-to-Peer Communication Libraries:
    - ZeroMQ: https://zeromq.org/
    - libp2p: https://www.libp2p.io/
 
-3. Scalable Discovery Services:
+1. Scalable Discovery Services:
 - Apache ZooKeeper: https://zookeeper.apache.org/
 - Consul: https://www.consul.io/
