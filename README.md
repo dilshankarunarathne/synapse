@@ -76,7 +76,7 @@ discovery, peer-to-peer protocols).
 ### Additional Considerations:
 
 - Configuration Management: Utilize configuration files or environment variables to manage system parameters (e.g., server addresses, security keys) without modifying core code.
-Logging and Monitoring: Integrate logging mechanisms to track system events and enable monitoring for potential issues.
+- Logging and Monitoring: Integrate logging mechanisms to track system events and enable monitoring for potential issues.
 Benefits of this Modular Structure:
 
 High Cohesion and Low Coupling: Modules are highly focused on specific functionalities and have minimal dependencies on each other, improving maintainability.
