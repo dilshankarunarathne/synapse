@@ -83,7 +83,7 @@ discovery, peer-to-peer protocols).
 - High Cohesion and Low Coupling: Modules are highly focused on specific functionalities and have minimal dependencies on each other, improving maintainability.
 - Scalability and Reusability: Modules can be easily scaled or reused in future projects with similar requirements.
 - Clear Separation of Concerns: Separates core task management logic from communication and security aspects, improving code clarity.
-Improved Testability: Modular design facilitates unit testing of individual modules and integration testing for communication between modules.
+- Improved Testability: Modular design facilitates unit testing of individual modules and integration testing for communication between modules.
 
 ## Getting Started
 
