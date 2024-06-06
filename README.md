@@ -56,7 +56,7 @@ edge computing projects.
 
 Implements the chosen mechanism for devices to find available tasks and collaborating participants (e.g., server-based discovery, peer-to-peer protocols).
 
-Secure Communication:
+2. Secure Communication:
 
 Channel Establishment: Establishes secure communication channels between devices using encryption and authentication protocols.
 Data Exchange: Facilitates secure exchange of task details, code snippets, and results between devices.
