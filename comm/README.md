@@ -16,6 +16,7 @@
 4. Leader Election (Optional):
 
 - Devices within a task might run a leader election algorithm to choose a leader for coordinating task execution and result aggregation. This can improve efficiency but introduces additional complexity.
+
 Task Execution:
 
 1. The creator distributes task snippets (code segments) to participating devices securely.
