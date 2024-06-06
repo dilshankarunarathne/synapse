@@ -79,7 +79,7 @@
 
 Secure Communication Libraries:
 - libsodium: https://github.com/jedisct1/libsodium
-NaCl: https://nacl.cr.yp.to/
+- NaCl: https://nacl.cr.yp.to/
 Distributed Consensus Algorithms:
 Raft Consensus: https://raft.github.io/
 Peer-to-Peer Communication Libraries:
