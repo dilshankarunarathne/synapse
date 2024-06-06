@@ -62,7 +62,7 @@ Channel Establishment: Establishes secure communication channels between devices
 Data Exchange: Facilitates secure exchange of task details, code snippets, and results between devices.
 (Optional) Cryptography: Integrates chosen libraries (libsodium, NaCl) for encryption and decryption functionalities.
 
-Security Module:
+### Security Module:
 
 Authentication and Authorization: Implements mechanisms for verifying device identities and access rights before allowing participation.
 Secure Key Management: Establishes secure methods for generating, storing, and rotating cryptographic keys used for encryption.
