@@ -67,7 +67,7 @@
 - Submitting jobs and retrieving job details
 - Visualizing results or interacting with task outcomes
 
-Communication Protocol Implementation:  Choose a secure communication library (libsodium, NaCl) and implement the protocol for:
+4. Communication Protocol Implementation:  Choose a secure communication library (libsodium, NaCl) and implement the protocol for:
 
 Device authentication and authorization
 Encrypted data exchange
