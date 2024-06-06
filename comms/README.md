@@ -1,13 +1,13 @@
 1. User Creates Job:
-- User defines the task using Synapse DSL in the software client.
-- The client interacts with a central server (optional) for - job registration and device discovery.
+   - User defines the task using Synapse DSL in the software client.
+   - The client interacts with a central server (optional) for - job registration and device discovery.
 
 2. Job Registration and Device Discovery:
 - The central server assigns a unique and temporary job ID (not the creator's IP) for the task.
 - Devices periodically broadcast their availability and capabilities to the server.
 - The server maintains a list of available devices for each job.
 
-3. Device Joins Task:
+1. Device Joins Task:
 
 - Devices discover available tasks (and their job IDs) from the server.
 - A device interested in joining a task retrieves the job details from the server.
