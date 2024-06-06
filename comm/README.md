@@ -36,4 +36,5 @@ Resuming execution from the last successful checkpoint.
 - Scalability and Discovery: Centralized server-assisted discovery facilitates task management and device participation in large networks.
 
 - Fault Tolerance: Mechanisms for handling device failures or network issues improve system robustness.
-Flexibility: The system can be adapted to work with or without a central server depending on the desired deployment scenario (fully decentralized or centralized coordination).
+
+- Flexibility: The system can be adapted to work with or without a central server depending on the desired deployment scenario (fully decentralized or centralized coordination).
