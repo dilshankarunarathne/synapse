@@ -35,6 +35,52 @@ without expensive upgrades.
 - Simplified Development: The Synapse DSL simplifies task definition for developers, reducing the barrier to entry for 
 edge computing projects.
 
+## Development Stages 
+
+### Core Modules
+
+Synapse DSL:
+
+Parser: Parses user-defined code written in the Synapse DSL.
+Compiler: Generates optimized code for edge devices based on parsed DSL syntax.
+(Optional) Optimizer: Analyzes and optimizes the generated code for efficient execution on resource-constrained devices.
+Task Management:
+
+Job Manager: Handles job creation, registration (with central server if used), and lifecycle management.
+Task Decomposition: Breaks down the overall task into smaller, executable subtasks suitable for individual devices.
+Result Aggregation: Collects and combines results from participating devices after task execution.
+(Optional) Leader Election: Implements logic for selecting a leader device to coordinate task execution and result aggregation.
+Communication Modules:
+
+Device Discovery:
+
+Implements the chosen mechanism for devices to find available tasks and collaborating participants (e.g., server-based discovery, peer-to-peer protocols).
+Secure Communication:
+
+Channel Establishment: Establishes secure communication channels between devices using encryption and authentication protocols.
+Data Exchange: Facilitates secure exchange of task details, code snippets, and results between devices.
+(Optional) Cryptography: Integrates chosen libraries (libsodium, NaCl) for encryption and decryption functionalities.
+Security Module:
+
+Authentication and Authorization: Implements mechanisms for verifying device identities and access rights before allowing participation.
+Secure Key Management: Establishes secure methods for generating, storing, and rotating cryptographic keys used for encryption.
+Client Module:
+
+Synapse IDE (Optional): Provides a user-friendly integrated development environment for writing and editing tasks in the Synapse DSL.
+Job Management: Allows users to submit jobs, retrieve job details, and interact with task outcomes.
+(Optional) Visualization Tools: Offers functionalities for visualizing results or task execution progress.
+Additional Considerations:
+
+Testing Framework: Implement unit and integration tests for each module to ensure proper functionality and communication between modules.
+Configuration Management: Utilize configuration files or environment variables to manage system parameters (e.g., server addresses, security keys) without modifying core code.
+Logging and Monitoring: Integrate logging mechanisms to track system events and enable monitoring for potential issues.
+Benefits of this Modular Structure:
+
+High Cohesion and Low Coupling: Modules are highly focused on specific functionalities and have minimal dependencies on each other, improving maintainability.
+Scalability and Reusability: Modules can be easily scaled or reused in future projects with similar requirements.
+Clear Separation of Concerns: Separates core task management logic from communication and security aspects, improving code clarity.
+Improved Testability: Modular design facilitates unit testing of individual modules and integration testing for communication between modules.
+
 ## Getting Started
 
 This repository is currently under development.
