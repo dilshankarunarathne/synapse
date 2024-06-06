@@ -60,7 +60,7 @@ discovery, peer-to-peer protocols).
     - Channel Establishment: Establishes secure communication channels between devices using encryption and 
    authentication protocols.
     - Data Exchange: Facilitates secure exchange of task details, code snippets, and results between devices.
-    (Optional) Cryptography: Integrates chosen libraries (libsodium, NaCl) for encryption and decryption functionalities.
+    Cryptography: Integrates chosen libraries (libsodium, NaCl) for encryption and decryption functionalities.
 
 ### Security Module:
 
