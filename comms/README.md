@@ -15,7 +15,7 @@
 
 4. Leader Election (Optional):
 
-- Devices within a task might run a leader election algorithm to choose a leader for coordinating task execution and result aggregation. This can improve efficiency but introduces additional complexity.
+   - Devices within a task might run a leader election algorithm to choose a leader for coordinating task execution and result aggregation. This can improve efficiency but introduces additional complexity.
 
 5. Task Execution:
 
