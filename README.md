@@ -103,7 +103,8 @@ Design and implementation of the secure communication protocol.
 Exploration and integration of scalability and fault tolerance mechanisms.
 Development of tools and libraries for efficient task execution on edge devices.
 Contribution:
-This project welcomes contributions from the developer community! Feel free to fork the repository, propose issues, or submit pull requests.
+This project welcomes contributions from the developer community! Feel free to fork the repository, propose issues, or 
+submit pull requests.
 
 ## License
 
