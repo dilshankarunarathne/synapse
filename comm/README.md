@@ -3,7 +3,6 @@
 - The client interacts with a central server (optional) for - job registration and device discovery.
 
 2. Job Registration and Device Discovery:
-
 - The central server assigns a unique and temporary job ID (not the creator's IP) for the task.
 - Devices periodically broadcast their availability and capabilities to the server.
 - The server maintains a list of available devices for each job.
