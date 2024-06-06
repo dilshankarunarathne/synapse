@@ -5,7 +5,7 @@ User Creates Job:
 - Job Registration and Device Discovery:
 
 2. The central server assigns a unique and temporary job ID (not the creator's IP) for the task.
-Devices periodically broadcast their availability and capabilities to the server.
+- Devices periodically broadcast their availability and capabilities to the server.
 The server maintains a list of available devices for each job.
 Device Joins Task:
 
