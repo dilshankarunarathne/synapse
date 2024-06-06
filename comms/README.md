@@ -52,7 +52,7 @@
 - Task description (high-level overview)
 - Synapse code snippets for each participating device
 - Expected results format
-Security parameters for communication
+- Security parameters for communication
 Central Server Design (Optional):  If you choose to use a central server, consider its functionalities:
 
 Job registration and management
