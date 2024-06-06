@@ -61,7 +61,7 @@ discovery, peer-to-peer protocols).
    authentication protocols.
     - Data Exchange: Facilitates secure exchange of task details, code snippets, and results between devices.
     - Cryptography (Optional): Integrates chosen libraries (libsodium, NaCl) for encryption and decryption 
-    - functionalities.
+    functionalities.
 
 ### Security Module:
 
