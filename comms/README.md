@@ -56,10 +56,10 @@
 
 2. Central Server Design (Optional):  If you choose to use a central server, consider its functionalities:
 
-- Job registration and management
-- Device discovery and availability tracking
-- Secure communication channel facilitation
-- (Optional) Leader election coordination
+   - Job registration and management
+   - Device discovery and availability tracking
+   - Secure communication channel facilitation
+   - (Optional) Leader election coordination
 
 3. Software Client Development:  Develop the user interface and functionalities for the software client:
 
