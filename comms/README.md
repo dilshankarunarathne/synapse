@@ -77,7 +77,7 @@
 
 ## Resources:
 
-Secure Communication Libraries:
+1. Secure Communication Libraries:
 - libsodium: https://github.com/jedisct1/libsodium
 - NaCl: https://nacl.cr.yp.to/
 Distributed Consensus Algorithms:
