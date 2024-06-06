@@ -1,5 +1,4 @@
 1. User Creates Job:
-
 - User defines the task using Synapse DSL in the software client.
 - The client interacts with a central server (optional) for - job registration and device discovery.
 - Job Registration and Device Discovery:
