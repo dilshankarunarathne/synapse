@@ -9,7 +9,7 @@ Devices periodically broadcast their availability and capabilities to the server
 The server maintains a list of available devices for each job.
 Device Joins Task:
 
-- Devices discover available tasks (and their job IDs) from the server.
+3. Devices discover available tasks (and their job IDs) from the server.
 A device interested in joining a task retrieves the job details from the server.
 The server facilitates secure communication channel establishment between the creator and joining device using a secure communication protocol like yours.
 Leader Election (Optional):
