@@ -83,7 +83,7 @@
 
 2. Distributed Consensus Algorithms:
    - Raft Consensus: https://raft.github.io/
-   - 
+
 Peer-to-Peer Communication Libraries:
    - ZeroMQ: https://zeromq.org/
    - libp2p: https://www.libp2p.io/
