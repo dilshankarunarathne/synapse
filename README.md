@@ -66,7 +66,7 @@ discovery, peer-to-peer protocols).
 ### Security Module:
 
 - Authentication and Authorization: Implements mechanisms for verifying device identities and access rights before allowing participation.
-Secure Key Management: Establishes secure methods for generating, storing, and rotating cryptographic keys used for encryption.
+- Secure Key Management: Establishes secure methods for generating, storing, and rotating cryptographic keys used for encryption.
 Client Module:
 
 Synapse IDE (Optional): Provides a user-friendly integrated development environment for writing and editing tasks in the Synapse DSL.
