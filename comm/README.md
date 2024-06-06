@@ -21,7 +21,7 @@
 
 - The creator distributes task snippets (code segments) to participating devices securely.
 
-Devices execute their assigned snippets and send results back to the leader or directly to the creator (depending on the workflow).
+- Devices execute their assigned snippets and send results back to the leader or directly to the creator (depending on the workflow).
 Result Aggregation and Return:
 
 1. The leader (or creator) aggregates the results from all devices.
