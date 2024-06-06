@@ -48,7 +48,7 @@ edge computing projects.
     Job Manager: Handles job creation, registration (with central server if used), and lifecycle management.
     Task Decomposition: Breaks down the overall task into smaller, executable subtasks suitable for individual devices.
     Result Aggregation: Collects and combines results from participating devices after task execution.
-    Leader Election: Implements logic for selecting a leader device to coordinate task execution and result aggregation.
+    - Leader Election: Implements logic for selecting a leader device to coordinate task execution and result aggregation.
 
 ### Communication Modules:
 
