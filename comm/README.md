@@ -28,7 +28,8 @@ Fault Tolerance:
 - Implement mechanisms to handle device failures or network issues. This might involve:
 Re-assigning tasks to available devices.
 Resuming execution from the last successful checkpoint.
-Benefits of this Approach:
+
+## Benefits of this Approach:
 
 - Improved Security: Temporary job IDs and secure communication protocols enhance overall security.
 Scalability and Discovery: Centralized server-assisted discovery facilitates task management and device participation in large networks.
