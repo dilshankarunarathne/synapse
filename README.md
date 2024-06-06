@@ -55,6 +55,7 @@ edge computing projects.
 1. Device Discovery:
 
 Implements the chosen mechanism for devices to find available tasks and collaborating participants (e.g., server-based discovery, peer-to-peer protocols).
+
 Secure Communication:
 
 Channel Establishment: Establishes secure communication channels between devices using encryption and authentication protocols.
