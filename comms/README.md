@@ -88,6 +88,6 @@
    - ZeroMQ: https://zeromq.org/
    - libp2p: https://www.libp2p.io/
 
-1. Scalable Discovery Services:
+4. Scalable Discovery Services:
 - Apache ZooKeeper: https://zookeeper.apache.org/
 - Consul: https://www.consul.io/
