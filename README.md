@@ -75,7 +75,6 @@ discovery, peer-to-peer protocols).
 
 ### Additional Considerations:
 
-Testing Framework: Implement unit and integration tests for each module to ensure proper functionality and communication between modules.
 Configuration Management: Utilize configuration files or environment variables to manage system parameters (e.g., server addresses, security keys) without modifying core code.
 Logging and Monitoring: Integrate logging mechanisms to track system events and enable monitoring for potential issues.
 Benefits of this Modular Structure:
