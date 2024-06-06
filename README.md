@@ -39,7 +39,7 @@ edge computing projects.
 
 ### Core Modules
 
-Synapse DSL:
+1. Synapse DSL:
 
 Parser: Parses user-defined code written in the Synapse DSL.
 Compiler: Generates optimized code for edge devices based on parsed DSL syntax.
