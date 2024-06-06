@@ -30,7 +30,7 @@ Re-assigning tasks to available devices.
 Resuming execution from the last successful checkpoint.
 Benefits of this Approach:
 
-Improved Security: Temporary job IDs and secure communication protocols enhance overall security.
+- Improved Security: Temporary job IDs and secure communication protocols enhance overall security.
 Scalability and Discovery: Centralized server-assisted discovery facilitates task management and device participation in large networks.
 Fault Tolerance: Mechanisms for handling device failures or network issues improve system robustness.
 Flexibility: The system can be adapted to work with or without a central server depending on the desired deployment scenario (fully decentralized or centralized coordination).
