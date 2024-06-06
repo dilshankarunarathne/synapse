@@ -63,9 +63,9 @@
 
 3. Software Client Development:  Develop the user interface and functionalities for the software client:
 
-- Writing Synapse code for tasks
-- Submitting jobs and retrieving job details
-- Visualizing results or interacting with task outcomes
+   - Writing Synapse code for tasks
+   - Submitting jobs and retrieving job details
+   - Visualizing results or interacting with task outcomes
 
 4. Communication Protocol Implementation:  Choose a secure communication library (libsodium, NaCl) and implement the protocol for:
 
