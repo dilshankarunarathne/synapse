@@ -128,14 +128,11 @@ communication between modules.
 Device discovery (optional, depending on chosen mechanism)
 Secure data exchange between devices
 Language:
-Option 1: Go
-Reason: Built-in networking features, good concurrency support for efficient communication.
-Integration: Separate codebase or integrate with Python using libraries like gopherus for inter-process communication.
 Option 2: Python with Libraries
 Reason: Simpler development if communication needs are not complex.
 Integration: Utilize libraries like Twisted or asyncio for asynchronous communication within the Python core system.
 
-5. Testing and Deployment:
+1. Testing and Deployment:
 
 Develop unit tests for individual modules using frameworks like pytest (Python), Catch2 (C++), or testing (Go).
 Integrate unit tests into your development workflow for continuous feedback.
