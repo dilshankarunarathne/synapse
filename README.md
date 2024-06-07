@@ -132,7 +132,7 @@ communication between modules.
 
 1. Testing and Deployment:
 - Develop unit tests for individual modules using frameworks like pytest (Python), Catch2 (C++), or testing (Go).
-Integrate unit tests into your development workflow for continuous feedback.
+- Integrate unit tests into your development workflow for continuous feedback.
 Consider containerization (Docker) for packaging and deployment of your system components across different environments.
 
 ## Getting Started
