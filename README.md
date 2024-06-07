@@ -127,7 +127,7 @@ communication between modules.
     - Secure data exchange between devices
 - Language:
     Python with Libraries
-Reason: Simpler development if communication needs are not complex.
+- Reason: Simpler development if communication needs are not complex.
 Integration: Utilize libraries like Twisted or asyncio for asynchronous communication within the Python core system.
 
 1. Testing and Deployment:
