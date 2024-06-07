@@ -93,6 +93,57 @@ code clarity.
 - Improved Testability: Modular design facilitates unit testing of individual modules and integration testing for 
 communication between modules.
 
+### Development Plan
+
+1. Core System and Synapse DSL (Python):
+	- Functionalities:
+		- Job management (creation, registration, monitoring)
+		- Client communication (sending/receiving tasks and results)
+		- Synapse DSL parser
+		- User interface (optional) for job submission and visualization
+	- Language: Python
+		Reason: Readability, simplicity, rich ecosystem of libraries for parsing (PLY, lark), networking (Twisted, asyncio) and UI development (Tkinter, PyQt).
+
+2. Compiler (LLVM):
+	- Functionalities:
+		Generates optimized code for target edge device architectures from Synapse DSL code.
+	- Language: LLVM
+		Reason: Powerful compilation infrastructure for diverse architectures, potential for high performance.
+	- Integration with Python:
+		Use libraries like llvmlite to bridge Python and LLVM for code generation tasks within the Python core system.
+
+3. Security (C/C++ or Go):
+
+Functionalities:
+Secure communication channel establishment (encryption, authentication)
+Secure key management (generation, storage, rotation)
+Language:
+Option 1: C/C++
+Reason: Fine-grained control over memory and security aspects.
+Integration: Separate codebase for security-critical functionalities. Utilize libraries like libsodium or NaCl.
+Option 2: Go
+Reason: Growing security libraries (crypto), simpler development compared to C/C++.
+Integration: Separate codebase or integrate with Python using libraries like cgo for calling C code from Go.
+
+4. Communication (Go or Python):
+
+Functionalities:
+Device discovery (optional, depending on chosen mechanism)
+Secure data exchange between devices
+Language:
+Option 1: Go
+Reason: Built-in networking features, good concurrency support for efficient communication.
+Integration: Separate codebase or integrate with Python using libraries like gopherus for inter-process communication.
+Option 2: Python with Libraries
+Reason: Simpler development if communication needs are not complex.
+Integration: Utilize libraries like Twisted or asyncio for asynchronous communication within the Python core system.
+
+5. Testing and Deployment:
+
+Develop unit tests for individual modules using frameworks like pytest (Python), Catch2 (C++), or testing (Go).
+Integrate unit tests into your development workflow for continuous feedback.
+Consider containerization (Docker) for packaging and deployment of your system components across different environments.
+
 ## Getting Started
 
 This repository is currently under development.
