@@ -126,7 +126,7 @@ communication between modules.
 
 - Functionalities:
     - Device discovery (optional, depending on chosen mechanism)
-    Secure data exchange between devices
+    - Secure data exchange between devices
 - Language:
 Python with Libraries
 Reason: Simpler development if communication needs are not complex.
