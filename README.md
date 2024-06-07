@@ -123,7 +123,6 @@ communication between modules.
        - Integration: Separate codebase for security-critical functionalities. Utilize libraries like libsodium or NaCl.
 
 4. Communication (Go or Python):
-
 - Functionalities:
     - Device discovery (optional, depending on chosen mechanism)
     - Secure data exchange between devices
