@@ -116,7 +116,7 @@ communication between modules.
 
 - Functionalities:
     - Secure communication channel establishment (encryption, authentication)
-    Secure key management (generation, storage, rotation)
+    - Secure key management (generation, storage, rotation)
 - Language:
 Option 1: C/C++
 Reason: Fine-grained control over memory and security aspects.
