@@ -125,8 +125,8 @@ communication between modules.
 4. Communication (Go or Python):
 
 - Functionalities:
-Device discovery (optional, depending on chosen mechanism)
-Secure data exchange between devices
+    Device discovery (optional, depending on chosen mechanism)
+    Secure data exchange between devices
 - Language:
 Python with Libraries
 Reason: Simpler development if communication needs are not complex.
