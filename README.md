@@ -117,7 +117,7 @@ communication between modules.
 - Functionalities:
 Secure communication channel establishment (encryption, authentication)
 Secure key management (generation, storage, rotation)
-Language:
+- Language:
 Option 1: C/C++
 Reason: Fine-grained control over memory and security aspects.
 Integration: Separate codebase for security-critical functionalities. Utilize libraries like libsodium or NaCl.
