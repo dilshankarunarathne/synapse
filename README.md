@@ -113,7 +113,6 @@ communication between modules.
 		Use libraries like llvmlite to bridge Python and LLVM for code generation tasks within the Python core system.
 
 3. Security (C/C++ or Go):
-
    - Functionalities:
        - Secure communication channel establishment (encryption, authentication)
        - Secure key management (generation, storage, rotation)
