@@ -122,13 +122,13 @@ communication between modules.
        - Integration: Separate codebase for security-critical functionalities. Utilize libraries like libsodium or NaCl.
 
 4. Communication (Go or Python):
-- Functionalities:
-    - Device discovery (optional, depending on chosen mechanism)
-    - Secure data exchange between devices
-- Language:
-    Python with Libraries
-  - Reason: Simpler development if communication needs are not complex.
-  - Integration: Utilize libraries like Twisted or asyncio for asynchronous communication within the Python core system.
+   - Functionalities:
+       - Device discovery (optional, depending on chosen mechanism)
+       - Secure data exchange between devices
+   - Language:
+       Python with Libraries
+     - Reason: Simpler development if communication needs are not complex.
+     - Integration: Utilize libraries like Twisted or asyncio for asynchronous communication within the Python core system.
 
 5. Testing and Deployment:
    - Develop unit tests for individual modules using frameworks like pytest (Python), Catch2 (C++), or testing (Go).
