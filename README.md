@@ -118,9 +118,9 @@ communication between modules.
     - Secure communication channel establishment (encryption, authentication)
     - Secure key management (generation, storage, rotation)
 - Language:
-- C/C++
-Reason: Fine-grained control over memory and security aspects.
-Integration: Separate codebase for security-critical functionalities. Utilize libraries like libsodium or NaCl.
+  - C/C++
+  Reason: Fine-grained control over memory and security aspects.
+  Integration: Separate codebase for security-critical functionalities. Utilize libraries like libsodium or NaCl.
 
 1. Communication (Go or Python):
 
