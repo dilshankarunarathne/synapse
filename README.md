@@ -130,7 +130,7 @@ communication between modules.
   - Reason: Simpler development if communication needs are not complex.
   - Integration: Utilize libraries like Twisted or asyncio for asynchronous communication within the Python core system.
 
-1. Testing and Deployment:
+5. Testing and Deployment:
    - Develop unit tests for individual modules using frameworks like pytest (Python), Catch2 (C++), or testing (Go).
    - Integrate unit tests into your development workflow for continuous feedback.
    - Consider containerization (Docker) for packaging and deployment of your system components across different environments.
