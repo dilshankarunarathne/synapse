@@ -119,7 +119,7 @@ communication between modules.
        - Secure key management (generation, storage, rotation)
    - Language:
      - C/C++
-     Reason: Fine-grained control over memory and security aspects.
+     - Reason: Fine-grained control over memory and security aspects.
      Integration: Separate codebase for security-critical functionalities. Utilize libraries like libsodium or NaCl.
 
 4. Communication (Go or Python):
