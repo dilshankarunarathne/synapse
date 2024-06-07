@@ -115,7 +115,7 @@ communication between modules.
 3. Security (C/C++ or Go):
 
 - Functionalities:
-    Secure communication channel establishment (encryption, authentication)
+    - Secure communication channel establishment (encryption, authentication)
     Secure key management (generation, storage, rotation)
 - Language:
 Option 1: C/C++
