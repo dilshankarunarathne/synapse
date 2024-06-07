@@ -122,10 +122,8 @@ Option 1: C/C++
 Reason: Fine-grained control over memory and security aspects.
 Integration: Separate codebase for security-critical functionalities. Utilize libraries like libsodium or NaCl.
 Option 2: Go
-Reason: Growing security libraries (crypto), simpler development compared to C/C++.
-Integration: Separate codebase or integrate with Python using libraries like cgo for calling C code from Go.
 
-4. Communication (Go or Python):
+1. Communication (Go or Python):
 
 Functionalities:
 Device discovery (optional, depending on chosen mechanism)
