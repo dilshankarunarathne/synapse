@@ -114,15 +114,15 @@ communication between modules.
 
 3. Security (C/C++ or Go):
 
-- Functionalities:
-    - Secure communication channel establishment (encryption, authentication)
-    - Secure key management (generation, storage, rotation)
-- Language:
-  - C/C++
-  Reason: Fine-grained control over memory and security aspects.
-  Integration: Separate codebase for security-critical functionalities. Utilize libraries like libsodium or NaCl.
+   - Functionalities:
+       - Secure communication channel establishment (encryption, authentication)
+       - Secure key management (generation, storage, rotation)
+   - Language:
+     - C/C++
+     Reason: Fine-grained control over memory and security aspects.
+     Integration: Separate codebase for security-critical functionalities. Utilize libraries like libsodium or NaCl.
 
-1. Communication (Go or Python):
+4. Communication (Go or Python):
 
 Functionalities:
 Device discovery (optional, depending on chosen mechanism)
